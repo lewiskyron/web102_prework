@@ -21,8 +21,9 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented features:
-![GIF](https://i.imgur.com/Zq2afbp.gif)
+Here's a walkthrough of implemented features:<br>
+
+![GIF](https://i.imgur.com/Zq2afbp.gif) width ='200] , length ='200'
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
