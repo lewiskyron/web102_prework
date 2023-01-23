@@ -23,10 +23,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:<br>
 
-![GIF](https://i.imgur.com/Zq2afbp.gif width=250x250)
+![GIF](https://i.imgur.com/Zq2afbp.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Kap and Adobe express. 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
